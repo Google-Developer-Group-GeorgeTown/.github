@@ -1,13 +1,13 @@
 # GDG George Town
 
 ## Just so you know...
-GDG George Town is a non-profit, community led organization which was established in 2013. Throughout the years, GDG George Town have been striving to create a local tech community that is diverse and inclusive.
+GDG George Town is a non-profit, community-led organization that was established in 2013. Throughout the years, GDG George Town has been striving to create a local tech community that is diverse and inclusive.
 
 ## Core Team Members
 | Picture | Name | Position | Bio | Connect with me |
 |---------|------|----------|-----|-----------------|
 | **ADD YOUR IMAGE** | <p><b>Zhi Yi</b></p> | <p>GDG George Town Lead</p> | ADD YOUR BIO HERE | HANDLES HERE |
-| <img src="./profile picture/Ritchie.jpg" alt="Avatar" width="200" display="inline"> | <p><b>Ritchie</b></p> | <p>GDG George Town Co-Lead</p> | <p>Ritchie is currently an undergrad majoring in AI at Universiti Sains Malaysia. Passionate about building sofware and jumping on the AI hype.🤖</p> | [LinkedIn](https://www.linkedin.com/in/ritchie-p-892b31115/) |
+| <img src="https://raw.githubusercontent.com/Google-Developer-Group-GeorgeTown/.github/main/profile/profile picture/Ritchie.jpg" alt="Avatar" width="200"> | <p><b>Ritchie</b></p> | <p>GDG George Town Co-Lead</p> | <p>Ritchie is currently an undergrad majoring in AI at Universiti Sains Malaysia. Passionate about building software and jumping on the AI hype.🤖</p> | [LinkedIn](https://www.linkedin.com/in/ritchie-p-892b31115/) |
 | **ADD YOUR IMAGE** | <p><b>Shaun</b></p> | <p>GDG George Town Co-Lead</p> | ADD YOUR BIO HERE | HANDLES HERE |
 | **ADD YOUR IMAGE** | <p><b>Carol</b></p> | <p>GDG George Town Core Team</p> | ADD YOUR BIO HERE | HANDLES HERE |
 | **ADD YOUR IMAGE** | <p><b>Guo Dong</b></p> | <p>GDG George Town Core Team</p> | ADD YOUR BIO HERE | HANDLES HERE |
