@@ -15,7 +15,7 @@ GDG George Town is a non-profit, community-led organization that was established
 | **ADD YOUR IMAGE** | <p><b>Yi Cheng</b></p> | <p>GDG George Town Core Team</p> | ADD YOUR BIO HERE | HANDLES HERE |
 | **ADD YOUR IMAGE** | <p><b>Chun Keat</b></p> | <p>GDG George Town Core Team</p> | ADD YOUR BIO HERE | HANDLES HERE |
 | **ADD YOUR IMAGE** | <p><b>Tai Yu</b></p> | <p>GDG George Town Core Team</p> | ADD YOUR BIO HERE | HANDLES HERE |
-| **ADD YOUR IMAGE** | <p><b>Wei En</b></p> | <p>GDG George Town Core Team</p> | ADD YOUR BIO HERE | HANDLES HERE |
+| <img src="https://raw.githubusercontent.com/Google-Developer-Group-GeorgeTown/.github/main/profile/profile picture/WeiEn.jpg" alt="Avatar" width="200">| <p><b>Wei En</b></p> | <p>GDG George Town Core Team</p> | <p>A junior year CS undergraduate from USM currently majoring in Software Engineering 👩🏻‍💻, en route to full stack developing. 🤖</p> | [LinkedIn](https://www.linkedin.com/in/looi-wei-en/) [Instagram](https://www.instagram.com/diminecjean2002)|
 
 ## Socials
 Everyone has FOMO, at least, we do... So catch up with us on our [Facebook](https://www.facebook.com/gdggeorgetown), [Instagram](https://www.instagram.com/gdggeorgetown/), [LinkedIn](https://www.linkedin.com/company/gdg-george-town/?viewAsMember=true) and our *very new* [Discord server](https://discord.gg/BJ5b6kwejr) for all the fun!
